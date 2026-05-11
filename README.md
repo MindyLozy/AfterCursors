@@ -54,3 +54,7 @@ Click **Stop** to hide the effect, or just close the window.
 | **Delay** | Time between spawning new shadows |
 | **Color** | Fill color of the afterimages |
 | **Contour** | Outline color around each afterimage | 
+
+## Inspiration
+
+Partially inspired by the **Projection Sorcery** technique from Jujutsu Kaisen. Also takes some DNA from the old Windows XP mouse trails, but with more style and actual settings to play with. Mostly just a "what if cursor go woosh" kind of project.
